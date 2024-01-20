@@ -26,7 +26,7 @@ Observação: As configurações do appsettings.json da api, é nescessario muda
 
 ## 2. Repositório:
 
-API: 
+API: https://github.com/anaferreiira/BackCadastro1
 
 
 ## 3. Segurança
